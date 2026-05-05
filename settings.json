@@ -1,0 +1,7 @@
+{
+  "lastChangelogVersion": "0.73.0",
+  "defaultProvider": "zai",
+  "defaultModel": "glm-5-turbo",
+  "defaultThinkingLevel": "medium",
+  "theme": "github"
+}
