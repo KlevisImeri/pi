@@ -3,5 +3,5 @@
   "defaultProvider": "zai",
   "defaultModel": "glm-5-turbo",
   "defaultThinkingLevel": "medium",
-  "theme": "github"
+  "theme": "github",
 }
