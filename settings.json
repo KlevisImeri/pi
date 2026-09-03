@@ -1,7 +1,32 @@
 {
-  "lastChangelogVersion": "0.75.4",
-  "defaultProvider": "zai",
-  "defaultModel": "glm-5-turbo",
+  "lastChangelogVersion": "0.84.4",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.6-luna",
   "defaultThinkingLevel": "medium",
-  "theme": "github"
+  "modelThinkingLevels": {
+    "openai-codex/gpt-5.6-luna": "medium"
+  },
+  "enabledModels": [
+    "openai-codex/gpt-5.6-luna:medium"
+  ],
+  "defaultTools": [
+    "read",
+    "bash",
+    "edit",
+    "write",
+    "grep",
+    "find",
+    "ls"
+  ],
+  "theme": "github-dark-default",
+  "packages": [
+    "npm:@juicesharp/rpiv-todo",
+    "npm:pi-web-access",
+    "npm:pi-subagents",
+    "npm:@juicesharp/rpiv-ask-user-question",
+    "npm:@narumitw/pi-plan-mode",
+    "npm:@gotgenes/pi-permission-system",
+    "git:github.com/Federicocervelli/pi-theme-github-dark-default",
+    "npm:pi-show-diffs"
+  ]
 }

@@ -1,2 +1,9 @@
 auth.json
+models-store.json
 sessions/
+
+# Local package installs and runtime data
+git/
+npm/
+tmp/
+extensions/pi-permission-system/logs/

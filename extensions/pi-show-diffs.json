@@ -1,0 +1,12 @@
+{
+  "autoApprove": false,
+  "diffColorMode": "default",
+  "showDiffRail": true,
+  "expandableLayout": false,
+  "collapsedHeight": "30%",
+  "expandedHeight": "100%",
+  "expandedWidth": "100%",
+  "keybindings": {
+    "autoApprove": false
+  }
+}
